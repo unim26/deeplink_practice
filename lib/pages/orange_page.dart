@@ -6,7 +6,7 @@ class OrangePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.orangeAccent,
+      backgroundColor: Colors.deepOrange,
       body: Center(
         child: Text(
           "Orange Page",
